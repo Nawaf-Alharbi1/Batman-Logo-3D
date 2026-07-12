@@ -79,3 +79,7 @@ Batman-Logo-3D/
 2. Open it in any compatible CAD software or 3D slicer.
 3. Slice the model if needed.
 4. Print it using a 3D printer.
+
+# 👨‍💻 Author
+
+**Nawaf Alharbi**
