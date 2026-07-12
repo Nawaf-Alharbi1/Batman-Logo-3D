@@ -2,54 +2,27 @@
 
 A simple 3D model of the Batman logo created as part of a CAD modeling assignment.
 
-The model includes a **4 mm mounting hole** and a **2 mm thickness**, making it suitable for 3D printing or use as a keychain.
+The model features a **4 mm mounting hole** and a **2 mm thickness**, making it suitable for 3D printing as a decorative piece or keychain.
 
 ---
 
-## 📌 Project Overview
+## 📖 Overview
 
-This project demonstrates basic 3D modeling skills by creating a recognizable Batman logo using CAD software.
+This project demonstrates the fundamentals of 3D CAD modeling by creating a clean Batman logo from a 2D sketch and converting it into a printable 3D model.
 
-The assignment required:
-
-- Designing a 2D profile
-- Creating a 4 mm mounting hole
-- Extruding the model to a thickness of 2 mm
-- Exporting the final design as an STL file
+The final design was exported in STL format for manufacturing and 3D printing applications.
 
 ---
 
-## ✨ Features
-
-- Batman logo design
-- 4 mm mounting hole
-- 2 mm thickness
-- Ready for 3D printing
-- STL file included
-
----
-
-## 🛠 Software Used
+## 🛠 Software
 
 - Onshape
-- STL Export
 
 ---
 
-## 📏 Design Specifications
+## 📂 Repository Structure
 
-| Property | Value |
-|----------|-------|
-| Model | Batman Logo |
-| Thickness | 2 mm |
-| Hole Diameter | 4 mm |
-| File Format | STL |
-
----
-
-## 📂 Project Structure
-
-```
+```text
 Batman-Logo-3D/
 │
 ├── Batman_Logo.stl
@@ -73,12 +46,11 @@ Batman-Logo-3D/
 
 ---
 
-## 🚀 How to Use
+## 📄 STL File
 
-1. Download the STL file.
-2. Open it in any compatible CAD software or 3D slicer.
-3. Slice the model if needed.
-4. Print it using a 3D printer.
+The printable 3D model is provided in STL format and can be opened using most CAD software or slicing applications for 3D printing.
+
+---
 
 # 👨‍💻 Author
 
